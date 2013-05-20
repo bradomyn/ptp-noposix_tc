@@ -1,0 +1,10 @@
+
+This package is slowly being phased out.
+
+We have no up to date documentation, and what we had here was obsolete
+(was up to date as of end-of-may 2011).
+
+Currently the package can't be compliled in freestanding mode from
+this directory, but only from ../wrpc-sw .  If built under a Linux
+system, it behaves as wr-ptpd.
+
